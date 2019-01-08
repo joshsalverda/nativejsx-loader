@@ -22,7 +22,7 @@
   "author": "Trey Cordova",
   "license": "MIT",
   "dependencies": {
-    "nativejsx": "^4.0.0",
+    "nativejsx": "4.2.0",
     "loader-utils": "^0.2.12"
   },
   "devDependencies": {
